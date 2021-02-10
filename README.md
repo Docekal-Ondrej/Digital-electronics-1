@@ -1,12 +1,10 @@
 # Digital-electronics-1
-## Header-1
-*ItaSauce*
-### Header-2
-__B-Sauce__
-*__BitaSauce__*
-Dalsi radek
+## Header-2
+*Italic*
+### Header-3
+__Bold__\
+*__Bold and italic__*\
+Link [Ondrej Docekal](https://github.com/Docekal-Ondrej)
 - sea
 - sue
 - soa
-http://github.com - automatic!
-[GitHub](http://github.com)
