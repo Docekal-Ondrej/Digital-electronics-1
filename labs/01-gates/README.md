@@ -15,4 +15,4 @@ Table:
 
 [Link to the code](https://www.edaplayground.com/x/wQCr)
 
-![Waveform screenshot.](c/users/docek/dokumenty/docekal-ondrej/digital-electronics-1/Labs/01-gates/Screenshot-EDU.jpg "Waveforms")
+![Waveform screenshot.](https://raw.githubusercontent.com/Docekal-Ondrej/Digital-electronics-1/main/labs/01-gates/Screenshot-EDU.jpg "Waveforms")
