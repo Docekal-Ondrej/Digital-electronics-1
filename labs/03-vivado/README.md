@@ -8,7 +8,7 @@ My github: https://github.com/Docekal-Ondrej
 
 ## Two-bit wide 4-to-1 multiplexer.
 
-```
+```vhdl
 architecture Behavioral of mux_2bit_4to1 is
 begin
 f_o <= a_i when (sel_i = "00") else
