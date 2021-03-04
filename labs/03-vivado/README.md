@@ -4,7 +4,7 @@ My github: https://github.com/Docekal-Ondrej
 
 ## Table
 
-![Waveform screenshot.](https://raw.githubusercontent.com/Docekal-Ondrej/Digital-electronics-1/main/labs/03-VIVADO/Screenshot-1.jpg)
+![Table.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/03-vivado/Screenshot-1.jpg)
 
 ## Two-bit wide 4-to-1 multiplexer.
 
@@ -41,7 +41,7 @@ end architecture Behavioral;
         wait;
     end process p_stimulus;
 ```
-![Waveform screenshot.](https://raw.githubusercontent.com/Docekal-Ondrej/Digital-electronics-1/main/labs/03-VIVADO/Screenshot-2.jpg)
+![Waveform screenshot.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/03-vivado/Screenshot-2.jpg)
 
 ## Tutorial - Create new project
 
