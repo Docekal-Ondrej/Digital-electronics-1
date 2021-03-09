@@ -2,7 +2,7 @@
 
 My github: https://github.com/Docekal-Ondrej
 
-![Table.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/04-segment/Screenshot1.jpg)
+![Table.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/04-segment/Screenshot1.png)
 
 Table:
 
@@ -129,7 +129,7 @@ p_stimulus : process
     end process p_stimulus;
 ```
 
-![Screenshot.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/04-segment/Screenshot2.jpg)
+![Screenshot.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/04-segment/Screenshot2.png)
 
 ## Instance
 
