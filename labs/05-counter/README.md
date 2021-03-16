@@ -172,4 +172,4 @@ begin
 end architecture Behavioral;
 ```
 
-![Screenshot.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/05-counter/Screenshot3.JPG)
+![Screenshot.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/05-counter/Screenshot3.jpg)
