@@ -6,11 +6,13 @@ Tables:
 
 
 | Input P | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 1 |
+| ------- | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 |  Clock  | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ | ↑ |
 |  State  | A | A | B | C | C | D | A | B | C | D | B | B | B | C | D | B |
 | Output R| 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 |
 
 | RGB LED | Artix-7 pin names | Red | Yellow | Green |
+| ------- | ----------------- | --- | ------ | ----- |
 |  LD16   |   N15, M16, R12   |1,0,0| 1,1,0  | 0,1,0 |
 |  LD17   |   N16, R11, G14   |1,0,0| 1,1,0  | 0,1,0 |
 
@@ -157,6 +159,7 @@ p_traffic_fsm : process(clk)
 ![Table.](https://github.com/Docekal-Ondrej/Digital-electronics-1/blob/main/labs/08-traffic_lights/Screenshot0.png)
 
 |     State     | South | West |
+| ------------- | ----- | ---- |
 |     STOP1     |  RED  |  RED |
 |    WEST_GO    |  RED  | GREEN|
 |   WEST_WAIT   |  RED  |YELLOW|
@@ -165,6 +168,7 @@ p_traffic_fsm : process(clk)
 |  SOUTH_WAIT   | YELLOW|  RED |
 
 |     Input     |  State  |
+| ------------- | ------- |
 |  No cars (00) |No change|
 |Cars west (01) | WEST_GO |
 |Cars south (10)| SOUTH_GO|
